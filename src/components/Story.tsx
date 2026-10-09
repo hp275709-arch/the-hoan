@@ -12,7 +12,7 @@ export const Story: React.FC<StoryProps> = ({ onStoryAction }) => {
       <div className="min-h-[360px] md:min-h-[520px] bg-[#f4efec] relative overflow-hidden">
         <img
           src="https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=1000&q=85"
-          alt="Trang sức Hidden mang câu chuyện của bạn"
+          alt="Trang sức Xich Cho mang câu chuyện của bạn"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-black/5" />
@@ -29,7 +29,7 @@ export const Story: React.FC<StoryProps> = ({ onStoryAction }) => {
         </h2>
 
         <p className="text-[14px] text-[#857c78] leading-[1.9] max-w-[460px] mb-3">
-          Hidden tin rằng những điều nhỏ bé có thể lưu giữ những câu chuyện lớn. Một chữ cái viết tắt của người bạn yêu, một biểu tượng cỏ bốn lá mang lại hy vọng, một kỷ niệm qua tấm hình nhỏ — hãy biến chúng thành món trang sức chỉ thuộc về bạn.
+          Xich Cho tin rằng những điều nhỏ bé có thể lưu giữ những câu chuyện lớn. Một chữ cái viết tắt của người bạn yêu, một biểu tượng cỏ bốn lá mang lại hy vọng, một kỷ niệm qua tấm hình nhỏ — hãy biến chúng thành món trang sức chỉ thuộc về bạn.
         </p>
 
         <p className="text-[14px] text-[#857c78] leading-[1.9] max-w-[460px] mb-8">

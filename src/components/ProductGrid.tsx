@@ -53,7 +53,7 @@ export const ProductGrid: React.FC<ProductGridProps> = ({
             Best Sellers
           </h2>
           <p className="text-[13px] text-[#857c78]">
-            Những món đồ được yêu thích nhất nhà Hidden.
+            Những món đồ được yêu thích nhất nhà Xich Cho.
           </p>
         </div>
 

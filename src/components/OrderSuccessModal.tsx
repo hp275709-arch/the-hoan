@@ -31,7 +31,7 @@ export const OrderSuccessModal: React.FC<OrderSuccessModalProps> = ({
         </div>
 
         <span className="text-[11px] font-bold tracking-[2px] uppercase text-[#b72e3d]">
-          Cảm ơn bạn đã lựa chọn Hidden
+          Cảm ơn bạn đã lựa chọn Xich Cho
         </span>
 
         <h2 id="success-modal-title" className="font-serif text-[30px] sm:text-[34px] text-[#292322] my-2 font-normal">

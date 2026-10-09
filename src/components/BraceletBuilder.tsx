@@ -94,7 +94,7 @@ export const BraceletBuilder: React.FC = () => {
                     className="absolute top-0 -translate-y-1/2 bg-[#292322] text-white text-[8px] font-bold px-2 py-0.5 rounded shadow-xs tracking-widest uppercase"
                     style={{ backgroundColor: selectedBase.id === 'base-rosegold' ? '#b56d5e' : '#333' }}
                   >
-                    HIDDEN
+                    XICH CHO
                   </div>
                 </div>
 

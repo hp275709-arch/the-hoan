@@ -7,11 +7,11 @@ export const Faq: React.FC = () => {
   const faqs = [
     {
       q: "Vòng tay được làm từ chất liệu gì?",
-      a: "Vòng tay và charm tại HIDDEN được chế tác chủ yếu từ chất liệu Bạc Ý S925 mạ Platinum hoặc Vàng Hồng cao cấp, kết hợp Titanium nguyên khối chống trầy xước và chống xỉn màu. Từng sản phẩm đều đi kèm chứng nhận chất liệu và chính sách bảo hành làm sáng miễn phí trọn đời."
+      a: "Vòng tay và charm tại XICH CHO được chế tác chủ yếu từ chất liệu Bạc Ý S925 mạ Platinum hoặc Vàng Hồng cao cấp, kết hợp Titanium nguyên khối chống trầy xước và chống xỉn màu. Từng sản phẩm đều đi kèm chứng nhận chất liệu và chính sách bảo hành làm sáng miễn phí trọn đời."
     },
     {
       q: "Tôi có thể tự thay đổi và thêm charm tại nhà không?",
-      a: "Hoàn toàn được! Các mẫu vòng tay của HIDDEN đều thiết kế dạng khóa bấm mở thông minh hoặc chốt vặn Bangle, cho phép bạn dễ dàng tháo, đổi hoặc bổ sung charm bất cứ khi nào bạn muốn để phù hợp trang phục hay tâm trạng từng ngày."
+      a: "Hoàn toàn được! Các mẫu vòng tay của XICH CHO đều thiết kế dạng khóa bấm mở thông minh hoặc chốt vặn Bangle, cho phép bạn dễ dàng tháo, đổi hoặc bổ sung charm bất cứ khi nào bạn muốn để phù hợp trang phục hay tâm trạng từng ngày."
     },
     {
       q: "Làm sao chọn size vòng phù hợp với cổ tay?",
@@ -23,7 +23,7 @@ export const Faq: React.FC = () => {
     },
     {
       q: "Tôi có thể mua làm quà tặng kèm hộp và thiệp không?",
-      a: "Tất cả đơn hàng tại HIDDEN đều được đóng gói tỉ mỉ trong hộp quà signature sang trọng, túi nhung cao cấp chống trầy và túi giấy quà tặng. Bạn có thể để lại lời nhắn khi đặt hàng để HIDDEN hỗ trợ viết tay thiệp chúc mừng ý nghĩa hoàn toàn miễn phí."
+      a: "Tất cả đơn hàng tại XICH CHO đều được đóng gói tỉ mỉ trong hộp quà signature sang trọng, túi nhung cao cấp chống trầy và túi giấy quà tặng. Bạn có thể để lại lời nhắn khi đặt hàng để XICH CHO hỗ trợ viết tay thiệp chúc mừng ý nghĩa hoàn toàn miễn phí."
     }
   ];
 
@@ -38,7 +38,7 @@ export const Faq: React.FC = () => {
             Câu hỏi thường gặp
           </h2>
           <p className="text-[13px] text-[#857c78]">
-            Giải đáp những thắc mắc thường gặp về chất liệu, kích thước và dịch vụ của Hidden.
+            Giải đáp những thắc mắc thường gặp về chất liệu, kích thước và dịch vụ của Xich Cho.
           </p>
         </div>
 

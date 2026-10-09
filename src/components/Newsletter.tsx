@@ -13,7 +13,7 @@ export const Newsletter: React.FC = () => {
       return;
     }
     setSubscribed(true);
-    setMessage('Chào mừng bạn đến với HIDDEN! Mã giảm 10% đơn đầu tiên: HIDDEN10 đã được lưu.');
+    setMessage('Chào mừng bạn đến với XICH CHO! Mã giảm 10% đơn đầu tiên: XICHCHO10 đã được lưu.');
   };
 
   return (
@@ -26,7 +26,7 @@ export const Newsletter: React.FC = () => {
           Something special is coming.
         </h2>
         <p className="text-[#766764] text-[13px] leading-relaxed max-w-[420px] mx-auto">
-          Đăng ký email để cập nhật bộ sưu tập mới, những câu chuyện truyền cảm hứng và nhận ưu đãi độc quyền từ Hidden.
+          Đăng ký email để cập nhật bộ sưu tập mới, những câu chuyện truyền cảm hứng và nhận ưu đãi độc quyền từ Xich Cho.
         </p>
 
         {subscribed ? (
@@ -36,7 +36,7 @@ export const Newsletter: React.FC = () => {
               <span>Đăng ký thành công!</span>
             </div>
             <p className="text-[12px] text-[#655653]">
-              Sử dụng mã coupon <strong className="text-[#b72e3d] tracking-wider font-mono">HIDDEN10</strong> để được giảm 10% cho đơn hàng đầu tiên của bạn.
+              Sử dụng mã coupon <strong className="text-[#b72e3d] tracking-wider font-mono">XICHCHO10</strong> để được giảm 10% cho đơn hàng đầu tiên của bạn.
             </p>
           </div>
         ) : (

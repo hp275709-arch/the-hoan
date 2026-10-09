@@ -7,7 +7,7 @@ export const Footer: React.FC = () => {
         {/* Brand Column */}
         <div className="md:col-span-2">
           <a href="#home" className="font-serif text-[32px] font-bold tracking-[5px] text-white inline-block mb-3 hover:text-[#ffd6db] transition-colors">
-            HIDDEN
+            XICH CHO
           </a>
           <p className="text-[#c6bdb9] text-[13px] leading-relaxed max-w-[380px]">
             Your Bracelet. Your Story.<br />
@@ -15,7 +15,7 @@ export const Footer: React.FC = () => {
           </p>
           <div className="mt-5 text-[12px] text-[#a89e9a] space-y-1">
             <p>✦ Hotline: 0987.654.321 (09:00 - 21:00)</p>
-            <p>✦ Email: hello@hiddenjewelry.vn</p>
+            <p>✦ Email: hello@xichcho.vn</p>
             <p>✦ Flagship Store: 18 Phố Cổ, Hoàn Kiếm, Hà Nội</p>
           </div>
         </div>
@@ -36,7 +36,7 @@ export const Footer: React.FC = () => {
               <a href="#studio" className="hover:text-[#ffd6db] transition-colors">Studio Mix Vòng Tay</a>
             </li>
             <li>
-              <a href="#story" className="hover:text-white transition-colors">Câu chuyện Hidden</a>
+              <a href="#story" className="hover:text-white transition-colors">Câu chuyện Xich Cho</a>
             </li>
           </ul>
         </div>
@@ -64,7 +64,7 @@ export const Footer: React.FC = () => {
       </div>
 
       <div className="max-w-[1240px] mx-auto mt-12 pt-6 border-t border-[#443836] flex flex-col sm:flex-row items-center justify-between text-[11px] text-[#9c918d] gap-3">
-        <p>© 2026 HIDDEN JEWELRY STUDIO. ALL RIGHTS RESERVED.</p>
+        <p>© 2026 XICH CHO JEWELRY STUDIO. ALL RIGHTS RESERVED.</p>
         <p className="tracking-wide">DESIGNED WITH CARE FOR JEWELRY LOVERS</p>
       </div>
     </footer>

@@ -61,7 +61,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreProducts, onOpenStudio }) =
       <div className="relative min-h-[380px] md:min-h-[580px] bg-[#f4efec] overflow-hidden">
         <img
           src="https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=1200&q=85"
-          alt="Bộ sưu tập trang sức tinh tế Hidden"
+          alt="Bộ sưu tập trang sức tinh tế Xich Cho"
           className="w-full h-full object-cover object-center transform hover:scale-105 transition-transform duration-700"
           loading="eager"
         />

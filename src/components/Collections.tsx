@@ -45,7 +45,7 @@ export const Collections: React.FC<CollectionsProps> = ({ onSelectCategory }) =>
           </h2>
         </div>
         <p className="text-[12px] text-[#857c78] max-w-[320px]">
-          Khám phá các dòng sản phẩm được tuyển chọn công phu của Hidden.
+          Khám phá các dòng sản phẩm được tuyển chọn công phu của Xich Cho.
         </p>
       </div>
 

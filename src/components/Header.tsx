@@ -55,7 +55,7 @@ export const Header: React.FC<HeaderProps> = ({
             href="#home"
             className="font-serif text-[28px] sm:text-[32px] font-bold tracking-[5px] text-[#292322] hover:text-[#b72e3d] transition-colors"
           >
-            HIDDEN
+            XICH CHO
           </a>
 
           {/* Desktop Navigation Links */}
@@ -84,7 +84,7 @@ export const Header: React.FC<HeaderProps> = ({
               href="#story"
               className="hover:text-[#b72e3d] transition-colors py-1 relative after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-[#b72e3d] hover:after:w-full after:transition-all"
             >
-              Về Hidden
+              Về Xich Cho
             </a>
             <a
               href="#how-to"
@@ -189,7 +189,7 @@ export const Header: React.FC<HeaderProps> = ({
               onClick={() => setIsMobileMenuOpen(false)}
               className="py-2 border-b border-[#f4efec] hover:text-[#b72e3d]"
             >
-              Về Hidden
+              Về Xich Cho
             </a>
             <a
               href="#how-to"

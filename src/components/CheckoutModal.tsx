@@ -61,7 +61,7 @@ export const CheckoutModal: React.FC<CheckoutModalProps> = ({
     setErrorMsg('');
 
     setTimeout(() => {
-      const orderId = `HD-${Math.floor(1000 + Math.random() * 9000)}`;
+      const orderId = `XC-${Math.floor(1000 + Math.random() * 9000)}`;
       const orderData: OrderData = {
         orderId,
         customerName: customerName.trim(),
