@@ -1,0 +1,8 @@
+{
+  "name": "HIDDEN — Your Bracelet, Your Story",
+  "description": "Trang web thương mại điện tử trang sức HIDDEN — Cá nhân hóa vòng tay và charm cao cấp, mang đậm dấu ấn riêng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
